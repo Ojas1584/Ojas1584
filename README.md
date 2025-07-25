@@ -7,7 +7,6 @@
 
 ### 🔭 I’m currently working on:
 - Real-world AI/ML projects (time-series anomaly detection, RAG-based assistants)
-- Enhancing automation using Python and Alteryx at HPCL
 - Preparing for roles in data science and fintech
 
 ### 🌱 I’m currently learning:
