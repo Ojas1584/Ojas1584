@@ -1,50 +1,72 @@
-<h1 align="center">Hi 👋, I'm Ojas Shenwai</h1>
-<h3 align="center">Final-year B.Tech | AI/ML Enthusiast | Dev-ready Projects</h3>
-
-💫 **About Me**  
-🔭 I’m currently working on:  
-  🚀 AI Interview Simulator (LLM-powered, FastAPI, YAKE)  
-  🧠 MediTrust AI (RAG-based Healthcare Assistant)  
-  📈 Flare Anomaly Detection (Time-Series LSTM Autoencoder)  
-
-✨ I’m looking to collaborate on:  
-  • AI tools for healthcare, automation, or education  
-  • Data-driven dashboards (Streamlit, Power BI, Alteryx)  
-  • ML pipelines + fast deployment with Docker/Kubernetes  
-
-🤝 I’m looking for help with:  
-  • Scaling APIs with FastAPI + vector DBs  
-  • Optimization for real-time inference systems  
-
-🌱 I’m currently learning:  
-  • Advanced Deep Learning (Attention, Transformers)  
-  • Production AI systems (LLMs, RAG, Fine-tuning)  
-  • Cloud DevOps (Docker, K8s, Azure basics)
-
-💬 Ask me about:  
-  • Building AI systems from scratch  
-  • Time-series analysis, RAG pipelines  
-  • Interview prep & project portfolios
-
-⚡ Fun fact:  
-  I love turning real-world inefficiencies into deployable AI tools that make lives easier!
+<h1 align="center">Hi there, I'm Ojas Shenwai 👋</h1>
+<p align="center">
+  <em>Aspiring AI/ML Engineer | Final Year B.Tech in Electronics & Telecommunication @ RAIT</em>
+</p>
 
 ---
 
-### 🌐 Socials
+### 🔭 I’m currently working on:
+- Real-world AI/ML projects (time-series anomaly detection, RAG-based assistants)
+- Enhancing automation using Python and Alteryx at HPCL
+- Preparing for roles in data science and fintech
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ojas-shenwai)  
-✉️ Email: ojas.shenwai@example.com *(replace with your real one)*
+### 🌱 I’m currently learning:
+- Deep Learning (CNNs, RNNs, Transformers)
+- LLMs and Multi-modal GenAI
+- Backend development with FastAPI & deployment with Docker + K8s
+
+### 🤝 I’m open to collaborate on:
+- AI/ML and data-driven projects
+- Hackathons and open-source contributions
+- Internships in Fintech / AI startups
+
+### 💬 Ask me about:
+- Time-series ML, LSTM-Autoencoders, Generative AI
+- Deployment (Streamlit, FastAPI, Docker)
+- GitHub portfolio building and resume enhancement
 
 ---
 
-### 💻 Tech Stack
+### 🌐 Connect with Me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/ojas-shenwai)
+[![Gmail](https://img.shields.io/badge/Gmail-red?style=flat&logo=gmail)](mailto:ojas.shenwai@gmail.com)
 
-```bash
-Languages:   Python • SQL • C++ • Java (basic)  
-Frameworks:  FastAPI • Streamlit • Flask • Scikit-learn • TensorFlow • HuggingFace  
-Tools:       Docker • Git • Postman • Power BI • Alteryx • VSCode • GitHub Actions  
-Other:       LLaMA-2 • YAKE • ChromaDB • LangChain • Pandas • NumPy • Matplotlib  
+---
 
+### 💻 Tech Stack:
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white" />
+  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=flat&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Alteryx-1C6ACB?style=flat" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white" />
+</p>
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Ojas1584&show_icons=true&theme=radical" height="150"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ojas1584&layout=compact&theme=radical" height="150"/> </p>
+---
+
+### 📊 GitHub Stats:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ojas1584&show_icons=true&theme=radical" width="47%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ojas1584&theme=radical" width="47%" />
+</p>
+
+---
+
+### 📌 Pinned Projects
+Use the GitHub UI to pin your top 6 repos. Recommended:
+- `Anomaly-Detection-FlareSystem`
+- `AI-Interview-Simulator`
+- `MediTrust-AI`
+- `PCA-SFA-TimeSeries`
+- `Dockerized-FastAPI-ML`
+- `K8s-Streamlit-Demo`
+
+---
+
+### ⚡ Fun Fact:
+I love automating boring things and making AI systems speak like humans 🤖
