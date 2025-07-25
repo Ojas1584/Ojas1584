@@ -1,9 +1,12 @@
 <!-- GitHub Profile README for Ojas Shenwai -->
 
 <!-- Banner -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=1000&lines=Hi+there%2C+I'm+Ojas+Shenwai+%F0%9F%91%8B />
-</p>
+<h1 align="center">
+  <a href="https://github.com/Ojas1584" target="_blank">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=F75C7E&center=true&vCenter=true&width=500&lines=👋+I'm+Ojas+Shenwai" alt="Typing SVG" />
+  </a>
+</h1>
+
 
 ---
 
