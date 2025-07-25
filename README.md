@@ -45,3 +45,6 @@ Languages:   Python • SQL • C++ • Java (basic)
 Frameworks:  FastAPI • Streamlit • Flask • Scikit-learn • TensorFlow • HuggingFace  
 Tools:       Docker • Git • Postman • Power BI • Alteryx • VSCode • GitHub Actions  
 Other:       LLaMA-2 • YAKE • ChromaDB • LangChain • Pandas • NumPy • Matplotlib  
+
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Ojas1584&show_icons=true&theme=radical" height="150"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ojas1584&layout=compact&theme=radical" height="150"/> </p>
