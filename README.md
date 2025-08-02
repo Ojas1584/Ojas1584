@@ -15,7 +15,7 @@
 💡 Passionate about **AI/ML**, **automation**, and solving real-world problems  
 📈 Focused on **Time-Series ML**, **GenAI Assistants**, and **Backend + Deployment**  
 🧠 Currently learning **Deep Learning**, **LLMs**, **FastAPI**, **Docker**, **Kubernetes**  
-🤝 Open to collaborate on **Hackathons**, **Research Projects**, and **Internships in AI/FinTech**
+🤝 Open to collaborate on **Hackathons**, **Research Projects**, and **Internships in AI**
 
 ---
 
