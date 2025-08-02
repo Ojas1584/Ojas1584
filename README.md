@@ -62,16 +62,11 @@
   </a>
   <a href="https://powerbi.microsoft.com/" target="_blank">
     <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-  </a>
-  <a href="https://www.alteryx.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Alteryx-1C6ACB?style=for-the-badge" />
-  </a>
+   </a>
   <a href="https://www.docker.com/" target="_blank">
     <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   </a>
-  <a href="https://kubernetes.io/" target="_blank">
-    <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
-  </a>
+ 
 </p>
 
 
