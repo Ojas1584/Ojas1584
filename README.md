@@ -22,14 +22,14 @@
 ### 🔭 What I’m Working On:
 - Time-series anomaly detection for refinery systems (LSTM-AE, real-time pipelines)
 - AI-powered interview simulator (FastAPI + LLaMA-2 + RAG)
-- MediTrust AI: Personalized healthcare assistant using LangChain
+  
 
 ---
 
 ### 💬 Ask Me About:
 - Time-Series Forecasting, LSTM Autoencoders
 - Streamlit, FastAPI, Docker deployments
-- Resume building, GitHub project organization
+
 
 ---
 
