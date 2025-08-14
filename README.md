@@ -81,9 +81,11 @@
 ---
 
 ### 📌 Featured Projects:
-- 🔬 [Anomaly-Detection-FlareSystem](https://github.com/Ojas1584/Anomaly-Detection-FlareSystem) – LSTM-AE on refinery data  
-- 🤖 [AI-Interview-Simulator](https://github.com/Ojas1584/AI-Interview-Simulator) – FastAPI + LLaMA-2  
-- 🏥 [MediTrust-AI](https://github.com/Ojas1584/MediTrust-AI) – RAG-based healthcare assistant
+
+- 🌿 [Leaf-Disease-Detection-YOLOv8](https://github.com/Ojas1584/Leaf-Disease-Detection-YOLOv8-) – YOLOv8-based leaf disease detection (97% accuracy, real-time monitoring)  
+- 🛸 [ArucoMarkerDetectionDrone](https://github.com/Ojas1584/ArucoMarkerDetectionDrone) – UAV navigation with ArUco markers for indoor drone localization  
+- 🏥 [MediTrust-AI](#) – RAG-based healthcare assistant (coming soon)
+
 
 ---
 
