@@ -63,8 +63,8 @@
 
 ### 📌 Featured Projects:
 
-- 🌿 [Leaf Disease Detection using YOLOv8](https://github.com/Ojas1584/Leaf-Disease-YOLOv8) – YOLOv8-based leaf disease detection (97% accuracy, real-time monitoring)  
-- 🛸 [Marker-Based UAV Navigation System](https://github.com/Ojas1584/UAV-Nav-System) – Indoor drone navigation using ArUco markers, optimized path planning  
+- 🌿 [Leaf Disease Detection using YOLOv8](https://github.com/Ojas1584/Leaf-Disease-Detection-YOLOv8-) – YOLOv8-based leaf disease detection (97% accuracy, real-time monitoring)  
+- 🛸 [Marker-Based UAV Navigation System](https://github.com/Ojas1584/ArucoMarkerDetectionDrone) – Indoor drone navigation using ArUco markers, optimized path planning  
 - 🏥 [MediTrust AI – Clinical RAG Assistant](https://github.com/Ojas1584/Clinical-RAG-Tool) – Retrieval-Augmented Generation (RAG) healthcare assistant (coming soon)  
 
 ---
