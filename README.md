@@ -50,16 +50,16 @@ Docker, MLflow, Streamlit, Git, Linux, Bash, VS Code
 
 ### 📌 Featured Projects
 
-- 🏥 **Clinical Decision Support System (RAG)** – Python, LangChain, Weaviate, LLMs  
+- 🏥 [**Clinical Decision Support System (RAG)**](https://github.com/Ojas1584/Clinical_Decision_Support_RAG) – Python, LangChain, Weaviate, LLMs  
   Engineered a RAG pipeline sourcing responses from NCCN & ICMR guidelines. Benchmarking LLMs led to selecting Llama 3.1 for high reasoning and faithfulness.  
 
-- 🛸 **Marker-Based UAV Navigation System (Patent Filed)** – Python, OpenCV, ROS  
+- 🛸 [**Marker-Based UAV Navigation System (Patent Filed)**](https://github.com/Ojas1584/ArucoMarkerDetectionDrone) – Python, OpenCV, ROS  
   Designed robust ArUco marker-based navigation system in GPS-denied indoor environments. Reduced flight path errors by 40%.  
 
-- 🌿 **Leaf Disease Detection using YOLOv8** – Python, YOLOv8, Deep Learning  
+- 🌿 [**Leaf Disease Detection using YOLOv8**](https://github.com/Ojas1584/Leaf-Disease-Detection-YOLOv8-) – Python, YOLOv8, Deep Learning  
   Improved detection accuracy to 97% with real-time alerts and data augmentation for varied conditions.  
 
-- 🏎 **A* Path Planning for Drones** – Python, ROS, Gazebo  
+- 🏎 [**A* Path Planning for Drones**](https://github.com/Ojas1584/A_star_PathPlanningAlgorithm_Drone) – Python, ROS, Gazebo  
   Optimized A* algorithm with energy-efficient re-planning, achieving 95% obstacle avoidance success rate.  
 
 ---
