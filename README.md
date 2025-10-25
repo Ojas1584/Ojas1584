@@ -135,14 +135,14 @@ Stack: Python · YOLOv8 · Deep Learning
 
 ---
 
-**<a href="https://github.com/Ojas1584/A_star_PathPlanningAlgorithm_Drone">A* Path Planning for Drones</a>**  
+**<a href="https://github.com/Ojas1584/A_star_PathPlanningAlgorithm_Drone">A Star Path planning for Drones</a>**
 - Optimized A* algorithm in ROS/Gazebo with energy-efficient maneuvers, achieving 95% obstacle avoidance.  
 - Reduced mission time by 15% through obstacle re-planning.  
 Stack: Python · ROS · Gazebo
 
 ---
 
-**Swift Multi-Modal Assistive Translator (KnoxPad)**  
+**Swift Multi-Modal Assistive Translator**  
 - macOS Vision + BiLSTM + Haptic Glove translating speech-to-Braille for deafblind accessibility.  
 - Real-time transcription and haptic feedback using 6-motor glove system.  
 - Decoupled vision and haptic modules for independent debugging and deployment.  
