@@ -1,142 +1,126 @@
-<!-- Animated GitHub Profile README for Ojas Vinay Shenwai -->
+<!-- ========================================================= -->
+<!--         Ojas Vinay Shenwai | AI Engineer Portfolio         -->
+<!-- ========================================================= -->
 
 <!-- Header Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00C6FF,100:0A0A0A&height=80&text=Ojas%20Vinay%20Shenwai&fontAlign=50&fontAlignY=50&fontSize=30&fontColor=ffffff&animation=fadeIn" />
+</p>
+
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=00C6FF&center=true&vCenter=true&width=650&lines=👋+Hi,+I'm+Ojas+Shenwai!;AI+%26+GenAI+Engineer+%7C+ML+Practitioner;Turning+Data+Into+Intelligence+🚀" alt="Typing Animation" />
+  <a href="https://github.com/Ojas1584" target="_blank">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00C6FF&center=true&vCenter=true&width=600&lines=AI+Engineer+|+Data+Scientist+|+GenAI+Practitioner" alt="Typing SVG" />
+  </a>
 </h1>
 
-<h3 align="center">🤖 AI/ML Engineer | 🧠 Data Scientist | ⚙️ GenAI & Backend Practitioner</h3>
+<h3 align="center">Designing Intelligent Systems that Learn, Reason, and Scale</h3>
 
 ---
 
-### 🧭 About Me
+## About Me
+
 📍 Navi Mumbai, India  
-📧 **ojasshen1584@gmail.com**  
-🎓 Final Year **B.Tech in Electronics & Telecommunication (Minor in AI)** — *RAIT*, CGPA: **8.79/10**  
+🎓 Final Year B.Tech in **Electronics & Telecommunication (Minor in AI)** at **RAIT** – CGPA: 8.79/10  
+📧 [ojasshen1584@gmail.com](mailto:ojasshen1584@gmail.com)  
 
-💡 Passionate about **AI/ML, GenAI, NLP, Computer Vision, and Time-Series Analytics**  
-🧠 Skilled in **LLMs, RAG, Transformers, and real-time inference pipelines**  
-📈 Love building **scalable, data-driven, production-ready systems**  
-🤝 Open to collaborating on **AI/ML projects, research, hackathons, and internships**
+Passionate about building intelligent systems that merge **AI, Data, and Automation**.  
+Experienced in **LLMs, RAG, Computer Vision, NLP, and Time-Series Analytics** with a focus on **real-world GenAI applications**.
 
 ---
 
-### 🚀 What I’m Working On
-- 🧩 **Industrial Time-Series Anomaly Detection** → LSTM Autoencoders + real-time monitoring pipelines  
-- 🩺 **Clinical Decision Support (RAG + LLMs)** → 500+ medical PDFs ingested via Weaviate, improved faithfulness by 40%  
-- 💬 **AI Interview Simulator & GenAI Assistants** → FastAPI + LangChain + Llama-2  
+## Current Work
+
+- **Industrial Time-Series Anomaly Detection** – LSTM Autoencoders, real-time data pipelines  
+- **Clinical Decision Support System (RAG + LLMs)** – Weaviate + LangChain, 40% improvement in response faithfulness  
+- **AI Interview Simulator** – FastAPI + Llama 2 + LangChain, adaptive GenAI assistant for interview prep  
 
 ---
 
-## ⚙️ Tech Arsenal
+## Tech Arsenal
 
-#### 💻 Languages
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-003B57?logo=sqlite&logoColor=white)
-
-#### 🧠 AI/ML Frameworks
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?logo=keras&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?logo=huggingface&logoColor=black)
-![LangChain](https://img.shields.io/badge/LangChain-00BFFF?logo=chainlink&logoColor=white)
-
-#### 🗃️ Databases & Backend
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
-![Neo4j](https://img.shields.io/badge/Neo4j-4581C3?logo=neo4j&logoColor=white)
-![Weaviate](https://img.shields.io/badge/Weaviate-20B2AA?logo=weaviate&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
-
-#### 📊 Data Tools
-![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?logo=plotly&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-4C8CBF?logo=python&logoColor=white)
-![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?logo=powerbi&logoColor=black)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white)
-
-#### 🧰 MLOps & Tools
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
-![MLflow](https://img.shields.io/badge/MLflow-0194E2?logo=mlflow&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
-![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?logo=visualstudiocode&logoColor=white)
+<table align="center">
+  <tr>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=python" width="48" height="48" /><br>Python</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=pytorch" width="48" height="48" /><br>PyTorch</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=tensorflow" width="48" height="48" /><br>TensorFlow</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=fastapi" width="48" height="48" /><br>FastAPI</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=docker" width="48" height="48" /><br>Docker</td>
+  </tr>
+  <tr>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" /><br>PostgreSQL</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" /><br>MongoDB</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=langchain" width="48" height="48" /><br>LangChain</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=opencv" width="48" height="48" /><br>OpenCV</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=linux" width="48" height="48" /><br>Linux</td>
+  </tr>
+</table>
 
 ---
 
-## 🧩 Featured Projects
+## Featured Projects
 
-### 🏥 [Clinical Decision Support System (RAG)](https://github.com/Ojas1584/Clinical_Decision_Support_RAG)
-> 💬 *“Bringing medical intelligence closer to clinicians.”*  
-- Built a **RAG pipeline** sourcing responses from **NCCN & ICMR guidelines**.  
-- Benchmarked multiple LLMs → Selected **Llama 3.1** for best reasoning & faithfulness.  
-- Stack: `Python` | `LangChain` | `Weaviate` | `Llama-3.1`
+<div align="center">
 
----
-
-### 🛸 [Marker-Based UAV Navigation (Patent Filed)](https://github.com/Ojas1584/ArucoMarkerDetectionDrone)
-> Robust **ArUco marker-based drone navigation** in GPS-denied indoor environments.  
-- Reduced flight path errors by 40%.  
-- Stack: `Python` | `OpenCV` | `ROS`
+**<a href="https://github.com/Ojas1584/Clinical_Decision_Support_RAG">Clinical Decision Support System (RAG)</a>**  
+*Bringing medical intelligence closer to clinicians.*  
+Stack: Python · LangChain · Weaviate · Llama 3.1  
+Improved faithfulness by 40% compared to baseline models.
 
 ---
 
-### 🌿 [Leaf Disease Detection using YOLOv8](https://github.com/Ojas1584/Leaf-Disease-Detection-YOLOv8-)
-> Achieved 97% accuracy using **real-time detection** with data augmentation.  
-- Stack: `Python` | `YOLOv8` | `Deep Learning`
+**<a href="https://github.com/Ojas1584/ArucoMarkerDetectionDrone">Marker-Based UAV Navigation (Patent Filed)</a>**  
+Indoor ArUco marker-based navigation using ROS + OpenCV.  
+Reduced flight path errors by 40% and achieved robust indoor autonomy.
 
 ---
 
-### 🏎 [A* Path Planning for Drones](https://github.com/Ojas1584/A_star_PathPlanningAlgorithm_Drone)
-> Optimized A* with energy-efficient re-planning, achieving 95% obstacle avoidance.  
-- Stack: `Python` | `ROS` | `Gazebo`
+**<a href="https://github.com/Ojas1584/Leaf-Disease-Detection-YOLOv8-">Leaf Disease Detection using YOLOv8</a>**  
+Real-time detection system with 97% accuracy across varied conditions.  
+Built scalable data augmentation and inference pipeline.
 
 ---
 
+**<a href="https://github.com/Ojas1584/A_star_PathPlanningAlgorithm_Drone">A* Path Planning for Drones</a>**  
+Optimized algorithm for energy-efficient navigation in obstacle-dense zones.  
+Achieved 95% obstacle avoidance success in simulation.
 
-
-## 💬 Ask Me About
-🧠 Time-Series Forecasting • LSTM Autoencoders  
-🤖 GenAI / LLMs • RAG Pipelines • LangChain  
-🪄 Computer Vision • NLP • Backend APIs  
-📦 FastAPI • MLOps • Data Engineering  
+</div>
 
 ---
 
-## 🌐 Connect With Me
+## Connect With Me
+
 <p align="center">
-  <a href="mailto:ojasshen1584@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/ojas-s-5322a1297/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/Ojas1584"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="mailto:ojasshen1584@gmail.com"><img src="https://img.shields.io/badge/Gmail-0A0A0A?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/ojas-s-5322a1297/"><img src="https://img.shields.io/badge/LinkedIn-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=00C6FF"/></a>
+  <a href="https://github.com/Ojas1584"><img src="https://img.shields.io/badge/GitHub-0A0A0A?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ojas1584&show_icons=true&theme=tokyonight" width="47%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Ojas1584&theme=tokyonight" width="47%"/>
-</p>
+## GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ojas1584&theme=tokyo-night" width="95%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Ojas1584&show_icons=true&theme=radical" width="47%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ojas1584&theme=radical" width="47%" />
 </p>
 
 ---
 
-### ⚡ Fun Fact
-> “I love turning complex data into meaningful intelligence and building AI systems that feel almost human.” 🤖
+## Fun Fact
+
+<blockquote align="center">
+  <h3>“Turning complex data into meaningful intelligence that powers human-like systems.”</h3>
+</blockquote>
 
 ---
 
-<!-- Footer -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00C6FF&height=100&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C6FF,100:0A0A0A&height=100&section=footer&reversal=true&animation=twinkling"/>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Ojas1584&label=Profile%20Views&color=00C6FF&style=flat" />
+  <br>
+  <i>Last Updated: October 2025</i>
 </p>
