@@ -1,5 +1,5 @@
 <!-- ========================================================= -->
-<!--         Ojas Vinay Shenwai | AI Engineer Portfolio         -->
+<!--         Ojas Vinay Shenwai | AI Engineer Portfolio       -->
 <!-- ========================================================= -->
 
 <!-- Header Banner -->
@@ -9,10 +9,9 @@
 
 <h1 align="center">
   <a href="https://github.com/Ojas1584" target="_blank">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00C6FF&center=true&vCenter=true&width=900&lines=AI+Engineer+|+Data+Scientist+|+GenAI+Practitioner" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00C6FF&center=true&vCenter=true&width=600&lines=AI+Engineer+|+Data+Scientist+|+GenAI+Practitioner" alt="Typing SVG" />
   </a>
 </h1>
-
 
 <h3 align="center">Designing Intelligent Systems that Learn, Reason, and Scale</h3>
 
@@ -31,75 +30,122 @@ Experienced in **LLMs, RAG, Computer Vision, NLP, and Time-Series Analytics** wi
 
 ## Current Work
 
-- Multi-Modal Assistive Translator – Swift + Python
-Developing an accessibility solution for hearing and deafblind users, integrating speech-to-text, text-to-Braille, and sign-to-speech translation.
-Built with SwiftUI, Apple Vision, and CoreML, featuring real-time haptic feedback via Bluetooth glove.
-  
+- **Industrial Time-Series Anomaly Detection** – LSTM Autoencoders, real-time data pipelines  
+- **Clinical Decision Support System (RAG + LLMs)** – Weaviate + LangChain, 40% improvement in response faithfulness  
+- **AI Interview Simulator** – FastAPI + Llama 2 + LangChain, adaptive GenAI assistant for interview prep  
+- **Swift Multi-Modal Assistive Translator (KnoxPad)** – macOS Vision + BiLSTM + Haptic Glove, bridging speech-to-Braille for deafblind accessibility  
 
 ---
 
 ## Tech Arsenal
 
+### Languages
 <table align="center">
-  <tr>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=python" width="48" height="48" /><br>Python</td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=java" width="48" height="48" /><br>Java</td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=cpp" width="48" height="48" /><br>C++</td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=r" width="48" height="48" /><br>R</td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=sql" width="48" height="48" /><br>SQL</td>
-  </tr>
-  <tr>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=pytorch" width="48" height="48" /><br>PyTorch</td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=tensorflow" width="48" height="48" /><br>TensorFlow</td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=fastapi" width="48" height="48" /><br>FastAPI</td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=huggingface" width="48" height="48" /><br>Hugging Face</td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=langchain" width="48" height="48" /><br>LangChain</td>
-  </tr>
-  <tr>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" /><br>MongoDB</td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" /><br>PostgreSQL</td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=neo4j" width="48" height="48" /><br>Neo4j</td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=docker" width="48" height="48" /><br>Docker</td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=linux" width="48" height="48" /><br>Linux</td>
-  </tr>
-  <tr>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=opencv" width="48" height="48" /><br>OpenCV</td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=sklearn" width="48" height="48" /><br>Scikit-learn</td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=pandas" width="48" height="48" /><br>Pandas</td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=numpy" width="48" height="48" /><br>NumPy</td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=matplotlib" width="48" height="48" /><br>Matplotlib</td>
-  </tr>
+<tr>
+<td align="center"><img src="https://skillicons.dev/icons?i=python" width="48"/><br>Python</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=java" width="48"/><br>Java</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=cpp" width="48"/><br>C++</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=r" width="48"/><br>R</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=sql" width="48"/><br>SQL</td>
+</tr>
 </table>
 
+### AI/ML Frameworks
+<table align="center">
+<tr>
+<td align="center"><img src="https://skillicons.dev/icons?i=tensorflow" width="48"/><br>TensorFlow</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=pytorch" width="48"/><br>PyTorch</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=keras" width="48"/><br>Keras</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=scikitlearn" width="48"/><br>scikit-learn</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=spacy" width="48"/><br>SpaCy</td>
+</tr>
+<tr>
+<td align="center"><img src="https://skillicons.dev/icons?i=opencv" width="48"/><br>OpenCV</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=ros" width="48"/><br>ROS</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=langchain" width="48"/><br>LangChain</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=transformers" width="48"/><br>Transformers</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=llama" width="48"/><br>LLMs</td>
+</tr>
+</table>
+
+### Databases & Backend
+<table align="center">
+<tr>
+<td align="center"><img src="https://skillicons.dev/icons?i=mongodb" width="48"/><br>MongoDB</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=postgres" width="48"/><br>PostgreSQL</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=mysql" width="48"/><br>MySQL</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=neo4j" width="48"/><br>Neo4j</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=weaviate" width="48"/><br>Weaviate</td>
+</tr>
+<tr>
+<td align="center"><img src="https://skillicons.dev/icons?i=fastapi" width="48"/><br>FastAPI</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=docker" width="48"/><br>Docker</td>
+</tr>
+</table>
+
+### Data & Visualization
+<table align="center">
+<tr>
+<td align="center"><img src="https://skillicons.dev/icons?i=pandas" width="48"/><br>Pandas</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=numpy" width="48"/><br>NumPy</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=matplotlib" width="48"/><br>Matplotlib</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=seaborn" width="48"/><br>Seaborn</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=powerbi" width="48"/><br>PowerBI</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=jupyter" width="48"/><br>Jupyter</td>
+</tr>
+</table>
+
+### MLOps & Tools
+<table align="center">
+<tr>
+<td align="center"><img src="https://skillicons.dev/icons?i=git" width="48"/><br>Git</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=mlflow" width="48"/><br>MLflow</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=streamlit" width="48"/><br>Streamlit</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=linux" width="48"/><br>Linux</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=vscode" width="48"/><br>VS Code</td>
+</tr>
+</table>
+
+---
 
 ## Featured Projects
 
-<div align="center">
-
 **<a href="https://github.com/Ojas1584/Clinical_Decision_Support_RAG">Clinical Decision Support System (RAG)</a>**  
-*Bringing medical intelligence closer to clinicians.*  
-Stack: Python · LangChain · Weaviate · Llama 3.1  
-Improved faithfulness by 40% compared to baseline models.
+- Engineered a Retrieval-Augmented Generation (RAG) pipeline sourcing responses from NCCN & ICMR guidelines, improving relevance by 40%.  
+- Data ingestion pipeline: Python + Marker to process 500+ complex PDFs into Weaviate vector database.  
+- Benchmarked Llama 3.1, Mistral, etc.; selected **Llama 3.1** for best reasoning and faithfulness.  
+Stack: Python · LangChain · Weaviate · Llama 3.1 · NLP
 
 ---
 
 **<a href="https://github.com/Ojas1584/ArucoMarkerDetectionDrone">Marker-Based UAV Navigation (Patent Filed)</a>**  
-Indoor ArUco marker-based navigation using ROS + OpenCV.  
-Reduced flight path errors by 40% and achieved robust indoor autonomy.
+- Implemented ArUco marker-based localization system achieving robust indoor autonomy.  
+- Applied custom ID-based control logic, boosting detection accuracy by 30%.  
+- Adaptive motion planning reduced flight path errors by 40%.  
+Stack: Python · OpenCV · ROS · Computer Vision
 
 ---
 
 **<a href="https://github.com/Ojas1584/Leaf-Disease-Detection-YOLOv8-">Leaf Disease Detection using YOLOv8</a>**  
-Real-time detection system with 97% accuracy across varied conditions.  
-Built scalable data augmentation and inference pipeline.
+- Achieved 97% accuracy in detecting/classifying plant leaf diseases.  
+- Improved robustness against varied lighting and weather by 25% with targeted augmentation.  
+- Real-time monitoring interface enabled rapid intervention.  
+Stack: Python · YOLOv8 · Deep Learning
 
 ---
 
 **<a href="https://github.com/Ojas1584/A_star_PathPlanningAlgorithm_Drone">A* Path Planning for Drones</a>**  
-Optimized algorithm for energy-efficient navigation in obstacle-dense zones.  
-Achieved 95% obstacle avoidance success in simulation.
+- Optimized A* algorithm in ROS/Gazebo with energy-efficient maneuvers, achieving 95% obstacle avoidance.  
+- Reduced mission time by 15% through obstacle re-planning.  
+Stack: Python · ROS · Gazebo
 
-</div>
+---
+
+**Swift Multi-Modal Assistive Translator (KnoxPad)**  
+- macOS Vision + BiLSTM + Haptic Glove translating speech-to-Braille for deafblind accessibility.  
+- Real-time transcription and haptic feedback using 6-motor glove system.  
+- Decoupled vision and haptic modules for independent debugging and deployment.  
+Stack: Swift · CoreML · BiLSTM · AVFoundation · Python
 
 ---
 
@@ -135,7 +181,8 @@ Achieved 95% obstacle avoidance success in simulation.
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Ojas1584&label=Profile%20Views&color=00C6FF&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=Ojas1584&label=Profile%20Views&color=00C6FF&style=flat" alt="Profile views" />
   <br>
   <i>Last Updated: October 2025</i>
 </p>
+
