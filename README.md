@@ -41,70 +41,19 @@ Stack: Swift · CoreML · BiLSTM · AVFoundation · Python
 ## Tech Arsenal
 
 ### Languages
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python" width="48"/>&nbsp;
-  <img src="https://skillicons.dev/icons?i=java" width="48"/>&nbsp;
-  <img src="https://skillicons.dev/icons?i=cpp" width="48"/>&nbsp;
-  <img src="https://skillicons.dev/icons?i=r" width="48"/>&nbsp;
-  <img src="https://skillicons.dev/icons?i=sql" width="48"/>
-</p>
+<table align="center"> <tr> <td align="center"><img src="https://skillicons.dev/icons?i=python" width="48"/><br>Python</td> <td align="center"><img src="https://skillicons.dev/icons?i=java" width="48"/><br>Java</td> <td align="center"><img src="https://skillicons.dev/icons?i=cpp" width="48"/><br>C++</td> <td align="center"><img src="https://skillicons.dev/icons?i=r" width="48"/><br>R</td> <td align="center"><img src="https://skillicons.dev/icons?i=sql" width="48"/><br>SQL</td> <td align="center"><img src="https://img.shields.io/badge/Swift-0A0A0A?style=for-the-badge&logo=swift&logoColor=00C6FF" width="100"/><br>Swift</td> </tr> </table>
 
 ### AI/ML Frameworks & Tools
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=tensorflow" width="48"/>&nbsp;
-  <img src="https://skillicons.dev/icons?i=pytorch" width="48"/>&nbsp;
-  <img src="https://skillicons.dev/icons?i=keras" width="48"/>&nbsp;
-  <img src="https://skillicons.dev/icons?i=scikitlearn" width="48"/>&nbsp;
-  <img src="https://skillicons.dev/icons?i=spacy" width="48"/>&nbsp;
-  <img src="https://skillicons.dev/icons?i=opencv" width="48"/>&nbsp;
-  <img src="https://skillicons.dev/icons?i=ros" width="48"/>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/LangChain-0A0A0A?style=for-the-badge&logo=langchain&logoColor=00C6FF"/>&nbsp;
-  <img src="https://img.shields.io/badge/Transformers-0A0A0A?style=for-the-badge&logo=transformers&logoColor=00C6FF"/>&nbsp;
-  <img src="https://img.shields.io/badge/LLMs-0A0A0A?style=for-the-badge&logoColor=00C6FF"/>
-</p>
+<table align="center"> <tr> <td align="center"><img src="https://skillicons.dev/icons?i=tensorflow" width="48"/><br>TensorFlow</td> <td align="center"><img src="https://skillicons.dev/icons?i=pytorch" width="48"/><br>PyTorch</td> <td align="center"><img src="https://skillicons.dev/icons?i=keras" width="48"/><br>Keras</td> <td align="center"><img src="https://skillicons.dev/icons?i=scikitlearn" width="48"/><br>scikit-learn</td> <td align="center"><img src="https://skillicons.dev/icons?i=spacy" width="48"/><br>SpaCy</td> <td align="center"><img src="https://skillicons.dev/icons?i=opencv" width="48"/><br>OpenCV</td> </tr> <tr> <td align="center"><img src="https://skillicons.dev/icons?i=ros" width="48"/><br>ROS</td> <td align="center"><img src="https://skillicons.dev/icons?i=langchain" width="48"/><br>LangChain</td> <td align="center"><img src="https://skillicons.dev/icons?i=transformers" width="48"/><br>Transformers</td> <td align="center"><img src="https://img.shields.io/badge/LLMs-0A0A0A?style=for-the-badge&logoColor=00C6FF" width="100"/><br>LLMs</td> <td align="center"><img src="https://img.shields.io/badge/BiLSTM-0A0A0A?style=for-the-badge&logoColor=00C6FF" width="100"/><br>BiLSTM</td> <td align="center"><img src="https://img.shields.io/badge/CoreML-0A0A0A?style=for-the-badge&logo=apple&logoColor=00C6FF" width="100"/><br>CoreML</td> </tr> <tr> <td align="center"><img src="https://img.shields.io/badge/AVFoundation-0A0A0A?style=for-the-badge&logo=apple&logoColor=00C6FF" width="100"/><br>AVFoundation</td> <td align="center"><img src="https://img.shields.io/badge/YOLOv8-0A0A0A?style=for-the-badge&logoColor=00C6FF" width="100"/><br>YOLOv8</td> <td align="center"><img src="https://img.shields.io/badge/NLP-0A0A0A?style=for-the-badge&logoColor=00C6FF" width="100"/><br>NLP</td> <td align="center"><img src="https://img.shields.io/badge/ComputerVision-0A0A0A?style=for-the-badge&logoColor=00C6FF" width="100"/><br>Computer Vision</td> </tr> </table>
 
 ### Databases & Backend
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb" width="48"/>&nbsp;
-  <img src="https://skillicons.dev/icons?i=postgres" width="48"/>&nbsp;
-  <img src="https://skillicons.dev/icons?i=mysql" width="48"/>&nbsp;
-  <img src="https://skillicons.dev/icons?i=neo4j" width="48"/>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Weaviate-0A0A0A?style=for-the-badge&logo=weaviate&logoColor=00C6FF"/>&nbsp;
-  <img src="https://skillicons.dev/icons?i=fastapi" width="48"/>&nbsp;
-  <img src="https://skillicons.dev/icons?i=docker" width="48"/>
-</p>
+<table align="center"> <tr> <td align="center"><img src="https://skillicons.dev/icons?i=mongodb" width="48"/><br>MongoDB</td> <td align="center"><img src="https://skillicons.dev/icons?i=postgres" width="48"/><br>PostgreSQL</td> <td align="center"><img src="https://skillicons.dev/icons?i=mysql" width="48"/><br>MySQL</td> <td align="center"><img src="https://skillicons.dev/icons?i=neo4j" width="48"/><br>Neo4j</td> <td align="center"><img src="https://img.shields.io/badge/Weaviate-0A0A0A?style=for-the-badge&logoColor=00C6FF" width="100"/><br>Weaviate</td> <td align="center"><img src="https://skillicons.dev/icons?i=fastapi" width="48"/><br>FastAPI</td> <td align="center"><img src="https://skillicons.dev/icons?i=docker" width="48"/><br>Docker</td> </tr> </table>
 
 ### Data & Visualization
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=pandas" width="48"/>&nbsp;
-  <img src="https://skillicons.dev/icons?i=numpy" width="48"/>&nbsp;
-  <img src="https://skillicons.dev/icons?i=matplotlib" width="48"/>&nbsp;
-  <img src="https://skillicons.dev/icons?i=seaborn" width="48"/>&nbsp;
-  <img src="https://img.shields.io/badge/PowerBI-0A0A0A?style=for-the-badge&logo=powerbi&logoColor=00C6FF"/>&nbsp;
-  <img src="https://skillicons.dev/icons?i=jupyter" width="48"/>
-</p>
+<table align="center"> <tr> <td align="center"><img src="https://skillicons.dev/icons?i=pandas" width="48"/><br>Pandas</td> <td align="center"><img src="https://skillicons.dev/icons?i=numpy" width="48"/><br>NumPy</td> <td align="center"><img src="https://skillicons.dev/icons?i=matplotlib" width="48"/><br>Matplotlib</td> <td align="center"><img src="https://skillicons.dev/icons?i=seaborn" width="48"/><br>Seaborn</td> <td align="center"><img src="https://skillicons.dev/icons?i=powerbi" width="48"/><br>PowerBI</td> <td align="center"><img src="https://skillicons.dev/icons?i=jupyter" width="48"/><br>Jupyter</td> </tr> </table>
 
 ### MLOps & Tools
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git" width="48"/>&nbsp;
-  <img src="https://skillicons.dev/icons?i=mlflow" width="48"/>&nbsp;
-  <img src="https://skillicons.dev/icons?i=streamlit" width="48"/>&nbsp;
-  <img src="https://skillicons.dev/icons?i=linux" width="48"/>&nbsp;
-  <img src="https://skillicons.dev/icons?i=vscode" width="48"/>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Swift-0A0A0A?style=for-the-badge&logo=swift&logoColor=00C6FF"/>&nbsp;
-  <img src="https://img.shields.io/badge/CoreML-0A0A0A?style=for-the-badge&logo=apple&logoColor=00C6FF"/>&nbsp;
-  <img src="https://img.shields.io/badge/BiLSTM-0A0A0A?style=for-the-badge&logoColor=00C6FF"/>&nbsp;
-  <img src="https://img.shields.io/badge/AVFoundation-0A0A0A?style=for-the-badge&logoColor=00C6FF"/>
-</p>
+<table align="center"> <tr> <td align="center"><img src="https://skillicons.dev/icons?i=git" width="48"/><br>Git</td> <td align="center"><img src="https://skillicons.dev/icons?i=mlflow" width="48"/><br>MLflow</td> <td align="center"><img src="https://skillicons.dev/icons?i=streamlit" width="48"/><br>Streamlit</td> <td align="center"><img src="https://skillicons.dev/icons?i=linux" width="48"/><br>Linux</td> <td align="center"><img src="https://skillicons.dev/icons?i=vscode" width="48"/><br>VS Code</td> </tr> </table>
 
 
 ## Featured Projects
