@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0A0A,100:121212&height=160&section=header&text=Ojas%20Vinay%20Shenwai&fontSize=40&fontColor=00C6FF&animation=glitch&pattern=mesh&motion=wave" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C6FF,100:0066FF&height=160&section=header&text=Ojas%20Vinay%20Shenwai&fontSize=40&fontColor=000000&animation=wave&pattern=mesh&motion=wave" />
 </p>
 
 <h1 align="center">
@@ -11,6 +11,7 @@
 <h3 align="center" style="color:#00FFFF;">
   Designing Intelligent Systems that Learn, Reason, and Scale
 </h3>
+
 
 
 
