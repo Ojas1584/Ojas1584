@@ -4,11 +4,11 @@
 
 <h1 align="center">
   <a href="https://github.com/Ojas1584" target="_blank">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00FFFF&center=true&vCenter=true&width=900&lines=AI+Engineer+|+Data+Scientist+|+GenAI+Practitioner" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00C6FF&center=true&vCenter=true&width=900&lines=AI+Engineer+|+Data+Scientist+|+GenAI+Practitioner" alt="Typing SVG" />
   </a>
 </h1>
 
-<h3 align="center" style="color:#00FFFF;">
+<h3 align="center" style="color:#00C6FF;">
   Designing Intelligent Systems that Learn, Reason, and Scale
 </h3>
 
