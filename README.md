@@ -8,9 +8,10 @@
   </a>
 </h1>
 
-<h3 align="center" style="color:#00C6FF;">
+<h3 align="center" style="color:#00FFFF;">
   Designing Intelligent Systems that Learn, Reason, and Scale
 </h3>
+
 
 ---
 
