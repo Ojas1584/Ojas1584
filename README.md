@@ -2,35 +2,29 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C6FF,100:0066FF&height=160&section=header&text=Ojas%20Vinay%20Shenwai&fontSize=40&fontColor=000000&animation=wave&pattern=mesh&motion=fast" />
 </p>
 
+<div style="height: 40px;"></div>
 
-<h1 align="center">
-  <a href="https://github.com/Ojas1584" target="_blank">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00C6FF&center=true&vCenter=true&width=900&lines=AI+Engineer+|+Data+Scientist+|+GenAI+Practitioner" alt="Typing SVG" />
-  </a>
-</h1>
-
-<h3 align="center" style="color:#00C6FF;">
-  Designing Intelligent Systems that Learn, Reason, and Scale
+<h3 align="center" style="color:#00FFFF; margin-top:0;">
+  Aspiring AI/ML Engineer | Data Scientist | GenAI Practitioner
 </h3>
-
 
 
 
 ---
 
-## 🧭 About Me
+##  About Me
 
-📍 **Location:** Navi Mumbai, India  
-🎓 **Education:** Final Year B.Tech in *Electronics & Telecommunication (Minor in AI)* – RAIT  
-📊 **CGPA:** 8.79 / 10  
-📧 **Email:** [ojasshen1584@gmail.com](mailto:ojasshen1584@gmail.com)  
+ **Location:** Navi Mumbai, India  
+ **Education:** Final Year B.Tech in *Electronics & Telecommunication (Minor in AI)* – RAIT  
+ **CGPA:** 8.79 / 10  
+ **Email:** [ojasshen1584@gmail.com](mailto:ojasshen1584@gmail.com)  
 
 Passionate about building intelligent systems that merge **AI, Data, and Automation**.  
 Experienced in **LLMs, RAG, Computer Vision, NLP, and Time-Series Analytics**, focusing on **real-world GenAI applications** and data-driven reasoning systems.
 
 ---
 
-## ⚡ Current Work
+##  Current Work
 
 **Swift Multi-Modal Assistive Translator**  
 - macOS Vision + ML Model + Haptic Glove translating speech-to-Braille for deafblind accessibility.  
@@ -40,9 +34,9 @@ Experienced in **LLMs, RAG, Computer Vision, NLP, and Time-Series Analytics**, f
 
 ---
 
-## 🧠 Tech Arsenal
+##  Tech Arsenal
 
-### 💻 Languages
+###  Languages
 <p align="center">
   <img src="https://img.shields.io/badge/Python-121212?style=for-the-badge&logo=python&logoColor=00BFFF" height="70"/>
   <img src="https://img.shields.io/badge/Java-121212?style=for-the-badge&logo=openjdk&logoColor=FF8C00" height="70"/>
@@ -52,7 +46,7 @@ Experienced in **LLMs, RAG, Computer Vision, NLP, and Time-Series Analytics**, f
   <img src="https://img.shields.io/badge/Swift-121212?style=for-the-badge&logo=swift&logoColor=FF6600" height="70"/>
 </p>
 
-### 🤖 AI / ML Frameworks & Libraries
+###  AI / ML Frameworks & Libraries
 <p align="center">
   <img src="https://img.shields.io/badge/PyTorch-121212?style=for-the-badge&logo=pytorch&logoColor=FF4500" height="70"/>
   <img src="https://img.shields.io/badge/TensorFlow-121212?style=for-the-badge&logo=tensorflow&logoColor=FFA500" height="70"/>
@@ -66,7 +60,7 @@ Experienced in **LLMs, RAG, Computer Vision, NLP, and Time-Series Analytics**, f
   <img src="https://img.shields.io/badge/CoreML-121212?style=for-the-badge&logo=apple&logoColor=FFFFFF" height="70"/>
 </p>
 
-### ⚙️ MLOps & Tools
+###  MLOps & Tools
 <p align="center">
   <img src="https://img.shields.io/badge/Docker-121212?style=for-the-badge&logo=docker&logoColor=00BFFF" height="70"/>
   <img src="https://img.shields.io/badge/MLflow-121212?style=for-the-badge&logo=mlflow&logoColor=00FFFF" height="70"/>
@@ -78,7 +72,7 @@ Experienced in **LLMs, RAG, Computer Vision, NLP, and Time-Series Analytics**, f
   <img src="https://img.shields.io/badge/Vercel-121212?style=for-the-badge&logo=vercel&logoColor=FFFFFF" height="70"/>
 </p>
 
-### 🗄️ Databases & Backend
+###  Databases & Backend
 <p align="center">
   <img src="https://img.shields.io/badge/MongoDB-121212?style=for-the-badge&logo=mongodb&logoColor=00FF7F" height="70"/>
   <img src="https://img.shields.io/badge/PostgreSQL-121212?style=for-the-badge&logo=postgresql&logoColor=00BFFF" height="70"/>
@@ -88,7 +82,7 @@ Experienced in **LLMs, RAG, Computer Vision, NLP, and Time-Series Analytics**, f
   <img src="https://img.shields.io/badge/SQLite-121212?style=for-the-badge&logo=sqlite&logoColor=00CED1" height="70"/>
 </p>
 
-### 📊 Data & Visualization
+###  Data & Visualization
 <p align="center">
   <img src="https://img.shields.io/badge/Pandas-121212?style=for-the-badge&logo=pandas&logoColor=FF1493" height="70"/>
   <img src="https://img.shields.io/badge/Numpy-121212?style=for-the-badge&logo=numpy&logoColor=00CED1" height="70"/>
@@ -100,7 +94,7 @@ Experienced in **LLMs, RAG, Computer Vision, NLP, and Time-Series Analytics**, f
 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 
 **<a href="https://github.com/Ojas1584/Clinical_Decision_Support_RAG">Clinical Decision Support System (RAG)</a>**  
 - RAG pipeline sourcing NCCN & ICMR guidelines, improving relevance by 40%.  
@@ -126,24 +120,33 @@ Experienced in **LLMs, RAG, Computer Vision, NLP, and Time-Series Analytics**, f
 
 ---
 
-## 🌐 Connect With Me
+##  Connect With Me
 <p align="center">
-  <a href="mailto:ojasshen1584@gmail.com"><img src="https://img.shields.io/badge/Gmail-121212?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/ojas-s-5322a1297/"><img src="https://img.shields.io/badge/LinkedIn-121212?style=for-the-badge&logo=linkedin&logoColor=00C6FF"/></a>
-  <a href="https://github.com/Ojas1584"><img src="https://img.shields.io/badge/GitHub-121212?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="mailto:ojasshen1584@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-121212?style=for-the-badge&logo=gmail&logoColor=00FFFF" height="70"/>
+  </a>
+  <a href="https://www.linkedin.com/in/ojas-s-5322a1297/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-121212?style=for-the-badge&logo=linkedin&logoColor=00C6FF" height="70"/>
+  </a>
+  <a href="https://github.com/Ojas1584" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-121212?style=for-the-badge&logo=github&logoColor=00C6FF" height="70"/>
+  </a>
 </p>
+
+
 
 ---
 
-## 📈 GitHub Analytics
+##  GitHub Analytics
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ojas1584&show_icons=true&theme=radical" width="47%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ojas1584&theme=radical" width="47%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Ojas1584&show_icons=true&theme=radical&bg_color=0A0A0A&text_color=00FFFF&icon_color=00C6FF&title_color=00C6FF" width="47%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ojas1584&theme=radical&background=0A0A0A&stroke=00C6FF&ring=00FFFF&fire=00C6FF&currStreakNum=00FFFF&sideNums=00C6FF" width="47%" />
 </p>
+
 
 ---
 
-## 💡 Fun Fact
+## Fun Fact
 <blockquote align="center">
   <h3 style="color:#00C6FF;">“Turning complex data into meaningful intelligence that powers human-like systems.”</h3>
 </blockquote>
