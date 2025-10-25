@@ -31,83 +31,81 @@ Experienced in **LLMs, RAG, Computer Vision, NLP, and Time-Series Analytics** wi
 
 ## Current Work
 
-- **Industrial Time-Series Anomaly Detection** – LSTM Autoencoders, real-time data pipelines  
-- **Clinical Decision Support System (RAG + LLMs)** – Weaviate + LangChain, 40% improvement in response faithfulness  
-- **AI Interview Simulator** – FastAPI + Llama 2 + LangChain, adaptive GenAI assistant for interview prep  
-- **Swift Multi-Modal Assistive Translator (KnoxPad)** – macOS Vision + BiLSTM + Haptic Glove, bridging speech-to-Braille for deafblind accessibility  
-
+**Swift Multi-Modal Assistive Translator**  
+- macOS Vision + ML Model + Haptic Glove translating speech-to-Braille for deafblind accessibility.  
+- Real-time transcription and haptic feedback using 6-motor glove system.  
+- Decoupled vision and haptic modules for independent debugging and deployment.  
+Stack: Swift · CoreML · BiLSTM · AVFoundation · Python
 ---
 
 ## Tech Arsenal
 
 ### Languages
-<table align="center">
-<tr>
-<td align="center"><img src="https://skillicons.dev/icons?i=python" width="48"/><br>Python</td>
-<td align="center"><img src="https://skillicons.dev/icons?i=java" width="48"/><br>Java</td>
-<td align="center"><img src="https://skillicons.dev/icons?i=cpp" width="48"/><br>C++</td>
-<td align="center"><img src="https://skillicons.dev/icons?i=r" width="48"/><br>R</td>
-<td align="center"><img src="https://skillicons.dev/icons?i=sql" width="48"/><br>SQL</td>
-</tr>
-</table>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python" width="48"/>&nbsp;
+  <img src="https://skillicons.dev/icons?i=java" width="48"/>&nbsp;
+  <img src="https://skillicons.dev/icons?i=cpp" width="48"/>&nbsp;
+  <img src="https://skillicons.dev/icons?i=r" width="48"/>&nbsp;
+  <img src="https://skillicons.dev/icons?i=sql" width="48"/>
+</p>
 
-### AI/ML Frameworks
-<table align="center">
-<tr>
-<td align="center"><img src="https://skillicons.dev/icons?i=tensorflow" width="48"/><br>TensorFlow</td>
-<td align="center"><img src="https://skillicons.dev/icons?i=pytorch" width="48"/><br>PyTorch</td>
-<td align="center"><img src="https://skillicons.dev/icons?i=keras" width="48"/><br>Keras</td>
-<td align="center"><img src="https://skillicons.dev/icons?i=scikitlearn" width="48"/><br>scikit-learn</td>
-<td align="center"><img src="https://skillicons.dev/icons?i=spacy" width="48"/><br>SpaCy</td>
-</tr>
-<tr>
-<td align="center"><img src="https://skillicons.dev/icons?i=opencv" width="48"/><br>OpenCV</td>
-<td align="center"><img src="https://skillicons.dev/icons?i=ros" width="48"/><br>ROS</td>
-<td align="center"><img src="https://skillicons.dev/icons?i=langchain" width="48"/><br>LangChain</td>
-<td align="center"><img src="https://skillicons.dev/icons?i=transformers" width="48"/><br>Transformers</td>
-<td align="center"><img src="https://skillicons.dev/icons?i=llama" width="48"/><br>LLMs</td>
-</tr>
-</table>
+### AI/ML Frameworks & Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=tensorflow" width="48"/>&nbsp;
+  <img src="https://skillicons.dev/icons?i=pytorch" width="48"/>&nbsp;
+  <img src="https://skillicons.dev/icons?i=keras" width="48"/>&nbsp;
+  <img src="https://skillicons.dev/icons?i=scikitlearn" width="48"/>&nbsp;
+  <img src="https://skillicons.dev/icons?i=spacy" width="48"/>&nbsp;
+  <img src="https://skillicons.dev/icons?i=opencv" width="48"/>&nbsp;
+  <img src="https://skillicons.dev/icons?i=ros" width="48"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/LangChain-0A0A0A?style=for-the-badge&logo=langchain&logoColor=00C6FF"/>&nbsp;
+  <img src="https://img.shields.io/badge/Transformers-0A0A0A?style=for-the-badge&logo=transformers&logoColor=00C6FF"/>&nbsp;
+  <img src="https://img.shields.io/badge/LLMs-0A0A0A?style=for-the-badge&logoColor=00C6FF"/>
+</p>
 
 ### Databases & Backend
-<table align="center">
-<tr>
-<td align="center"><img src="https://skillicons.dev/icons?i=mongodb" width="48"/><br>MongoDB</td>
-<td align="center"><img src="https://skillicons.dev/icons?i=postgres" width="48"/><br>PostgreSQL</td>
-<td align="center"><img src="https://skillicons.dev/icons?i=mysql" width="48"/><br>MySQL</td>
-<td align="center"><img src="https://skillicons.dev/icons?i=neo4j" width="48"/><br>Neo4j</td>
-<td align="center"><img src="https://skillicons.dev/icons?i=weaviate" width="48"/><br>Weaviate</td>
-</tr>
-<tr>
-<td align="center"><img src="https://skillicons.dev/icons?i=fastapi" width="48"/><br>FastAPI</td>
-<td align="center"><img src="https://skillicons.dev/icons?i=docker" width="48"/><br>Docker</td>
-</tr>
-</table>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mongodb" width="48"/>&nbsp;
+  <img src="https://skillicons.dev/icons?i=postgres" width="48"/>&nbsp;
+  <img src="https://skillicons.dev/icons?i=mysql" width="48"/>&nbsp;
+  <img src="https://skillicons.dev/icons?i=neo4j" width="48"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Weaviate-0A0A0A?style=for-the-badge&logo=weaviate&logoColor=00C6FF"/>&nbsp;
+  <img src="https://skillicons.dev/icons?i=fastapi" width="48"/>&nbsp;
+  <img src="https://skillicons.dev/icons?i=docker" width="48"/>
+</p>
 
 ### Data & Visualization
-<table align="center">
-<tr>
-<td align="center"><img src="https://skillicons.dev/icons?i=pandas" width="48"/><br>Pandas</td>
-<td align="center"><img src="https://skillicons.dev/icons?i=numpy" width="48"/><br>NumPy</td>
-<td align="center"><img src="https://skillicons.dev/icons?i=matplotlib" width="48"/><br>Matplotlib</td>
-<td align="center"><img src="https://skillicons.dev/icons?i=seaborn" width="48"/><br>Seaborn</td>
-<td align="center"><img src="https://skillicons.dev/icons?i=powerbi" width="48"/><br>PowerBI</td>
-<td align="center"><img src="https://skillicons.dev/icons?i=jupyter" width="48"/><br>Jupyter</td>
-</tr>
-</table>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=pandas" width="48"/>&nbsp;
+  <img src="https://skillicons.dev/icons?i=numpy" width="48"/>&nbsp;
+  <img src="https://skillicons.dev/icons?i=matplotlib" width="48"/>&nbsp;
+  <img src="https://skillicons.dev/icons?i=seaborn" width="48"/>&nbsp;
+  <img src="https://img.shields.io/badge/PowerBI-0A0A0A?style=for-the-badge&logo=powerbi&logoColor=00C6FF"/>&nbsp;
+  <img src="https://skillicons.dev/icons?i=jupyter" width="48"/>
+</p>
 
 ### MLOps & Tools
-<table align="center">
-<tr>
-<td align="center"><img src="https://skillicons.dev/icons?i=git" width="48"/><br>Git</td>
-<td align="center"><img src="https://skillicons.dev/icons?i=mlflow" width="48"/><br>MLflow</td>
-<td align="center"><img src="https://skillicons.dev/icons?i=streamlit" width="48"/><br>Streamlit</td>
-<td align="center"><img src="https://skillicons.dev/icons?i=linux" width="48"/><br>Linux</td>
-<td align="center"><img src="https://skillicons.dev/icons?i=vscode" width="48"/><br>VS Code</td>
-</tr>
-</table>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git" width="48"/>&nbsp;
+  <img src="https://skillicons.dev/icons?i=mlflow" width="48"/>&nbsp;
+  <img src="https://skillicons.dev/icons?i=streamlit" width="48"/>&nbsp;
+  <img src="https://skillicons.dev/icons?i=linux" width="48"/>&nbsp;
+  <img src="https://skillicons.dev/icons?i=vscode" width="48"/>
+</p>
 
----
+<p align="center">
+  <img src="https://img.shields.io/badge/Swift-0A0A0A?style=for-the-badge&logo=swift&logoColor=00C6FF"/>&nbsp;
+  <img src="https://img.shields.io/badge/CoreML-0A0A0A?style=for-the-badge&logo=apple&logoColor=00C6FF"/>&nbsp;
+  <img src="https://img.shields.io/badge/BiLSTM-0A0A0A?style=for-the-badge&logoColor=00C6FF"/>&nbsp;
+  <img src="https://img.shields.io/badge/AVFoundation-0A0A0A?style=for-the-badge&logoColor=00C6FF"/>
+</p>
+
 
 ## Featured Projects
 
@@ -142,13 +140,7 @@ Stack: Python · ROS · Gazebo
 
 ---
 
-**Swift Multi-Modal Assistive Translator**  
-- macOS Vision + BiLSTM + Haptic Glove translating speech-to-Braille for deafblind accessibility.  
-- Real-time transcription and haptic feedback using 6-motor glove system.  
-- Decoupled vision and haptic modules for independent debugging and deployment.  
-Stack: Swift · CoreML · BiLSTM · AVFoundation · Python
 
----
 
 ## Connect With Me
 
