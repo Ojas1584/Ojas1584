@@ -119,7 +119,7 @@ Experienced in **LLMs, RAG, Computer Vision, NLP, and Time-Series Analytics**, f
 - 25% robustness improvement under variable lighting via augmentation.  
 **Stack:** Python · YOLOv8 · Deep Learning  
 
-**<a href="https://github.com/Ojas1584/A_star_PathPlanningAlgorithm_Drone">A* Path Planning for Drones</a>**  
+**<a href="https://github.com/Ojas1584/A_star_PathPlanningAlgorithm_Drone">A Star Path Planning for Drones</a>**  
 - Optimized A* in ROS/Gazebo; 95% obstacle avoidance.  
 - Reduced mission time by 15% through re-planning.  
 **Stack:** Python · ROS · Gazebo  
