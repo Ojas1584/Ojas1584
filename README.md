@@ -9,9 +9,10 @@
 
 <h1 align="center">
   <a href="https://github.com/Ojas1584" target="_blank">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00C6FF&center=true&vCenter=true&width=600&lines=AI+Engineer+|+Data+Scientist+|+GenAI+Practitioner" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00C6FF&center=true&vCenter=true&width=900&lines=AI+Engineer+|+Data+Scientist+|+GenAI+Practitioner" alt="Typing SVG" />
   </a>
 </h1>
+
 
 <h3 align="center">Designing Intelligent Systems that Learn, Reason, and Scale</h3>
 
@@ -30,9 +31,10 @@ Experienced in **LLMs, RAG, Computer Vision, NLP, and Time-Series Analytics** wi
 
 ## Current Work
 
-- **Industrial Time-Series Anomaly Detection** – LSTM Autoencoders, real-time data pipelines  
-- **Clinical Decision Support System (RAG + LLMs)** – Weaviate + LangChain, 40% improvement in response faithfulness  
-- **AI Interview Simulator** – FastAPI + Llama 2 + LangChain, adaptive GenAI assistant for interview prep  
+- Multi-Modal Assistive Translator – Swift + Python
+Developing an accessibility solution for hearing and deafblind users, integrating speech-to-text, text-to-Braille, and sign-to-speech translation.
+Built with SwiftUI, Apple Vision, and CoreML, featuring real-time haptic feedback via Bluetooth glove.
+  
 
 ---
 
@@ -41,21 +43,34 @@ Experienced in **LLMs, RAG, Computer Vision, NLP, and Time-Series Analytics** wi
 <table align="center">
   <tr>
     <td align="center" width="96"><img src="https://skillicons.dev/icons?i=python" width="48" height="48" /><br>Python</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=java" width="48" height="48" /><br>Java</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=cpp" width="48" height="48" /><br>C++</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=r" width="48" height="48" /><br>R</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=sql" width="48" height="48" /><br>SQL</td>
+  </tr>
+  <tr>
     <td align="center" width="96"><img src="https://skillicons.dev/icons?i=pytorch" width="48" height="48" /><br>PyTorch</td>
     <td align="center" width="96"><img src="https://skillicons.dev/icons?i=tensorflow" width="48" height="48" /><br>TensorFlow</td>
     <td align="center" width="96"><img src="https://skillicons.dev/icons?i=fastapi" width="48" height="48" /><br>FastAPI</td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=docker" width="48" height="48" /><br>Docker</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=huggingface" width="48" height="48" /><br>Hugging Face</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=langchain" width="48" height="48" /><br>LangChain</td>
   </tr>
   <tr>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" /><br>PostgreSQL</td>
     <td align="center" width="96"><img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" /><br>MongoDB</td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=langchain" width="48" height="48" /><br>LangChain</td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=opencv" width="48" height="48" /><br>OpenCV</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" /><br>PostgreSQL</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=neo4j" width="48" height="48" /><br>Neo4j</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=docker" width="48" height="48" /><br>Docker</td>
     <td align="center" width="96"><img src="https://skillicons.dev/icons?i=linux" width="48" height="48" /><br>Linux</td>
+  </tr>
+  <tr>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=opencv" width="48" height="48" /><br>OpenCV</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=sklearn" width="48" height="48" /><br>Scikit-learn</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=pandas" width="48" height="48" /><br>Pandas</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=numpy" width="48" height="48" /><br>NumPy</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=matplotlib" width="48" height="48" /><br>Matplotlib</td>
   </tr>
 </table>
 
----
 
 ## Featured Projects
 
