@@ -36,57 +36,71 @@ Stack: Swift · CoreML · BiLSTM · AVFoundation · Python
 ## Tech Arsenal
 
 ### Languages
-<img src="https://img.shields.io/badge/Python-0A0A0A?style=for-the-badge&logo=python&logoColor=%2300FFFF&labelColor=%230A0A0A&scale=1.5" height="50"/>
-<img src="https://img.shields.io/badge/Java-0A0A0A?style=for-the-badge&logo=openjdk&logoColor=%23FF00FF&labelColor=%230A0A0A&scale=1.5" height="50"/>
-<img src="https://img.shields.io/badge/C++-0A0A0A?style=for-the-badge&logo=cplusplus&logoColor=%2339FF14&labelColor=%230A0A0A&scale=1.5" height="50"/>
-<img src="https://img.shields.io/badge/R-0A0A0A?style=for-the-badge&logo=r&logoColor=%23FF1493&labelColor=%230A0A0A&scale=1.5" height="50"/>
-<img src="https://img.shields.io/badge/SQL-0A0A0A?style=for-the-badge&logo=mysql&logoColor=%2300FFFF&labelColor=%230A0A0A&scale=1.5" height="50"/>
-<img src="https://img.shields.io/badge/Swift-0A0A0A?style=for-the-badge&logo=swift&logoColor=%23FF00FF&labelColor=%230A0A0A&scale=1.5" height="50"/>
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-0A0A0A?style=for-the-badge&logo=python&logoColor=%2300FFFF&labelColor=%230A0A0A&scale=1.5" height="60"/>
+  <img src="https://img.shields.io/badge/Java-0A0A0A?style=for-the-badge&logo=openjdk&logoColor=%23FF00FF&labelColor=%230A0A0A&scale=1.5" height="60"/>
+  <img src="https://img.shields.io/badge/C++-0A0A0A?style=for-the-badge&logo=cplusplus&logoColor=%2339FF14&labelColor=%230A0A0A&scale=1.5" height="60"/>
+  <img src="https://img.shields.io/badge/R-0A0A0A?style=for-the-badge&logo=r&logoColor=%23FF1493&labelColor=%230A0A0A&scale=1.5" height="60"/>
+  <img src="https://img.shields.io/badge/SQL-0A0A0A?style=for-the-badge&logo=mysql&logoColor=%2300FFFF&labelColor=%230A0A0A&scale=1.5" height="60"/>
+  <img src="https://img.shields.io/badge/Swift-0A0A0A?style=for-the-badge&logo=swift&logoColor=%23FF00FF&labelColor=%230A0A0A&scale=1.5" height="60"/>
+</p>
+
 
 ### AI/ML Frameworks
-<img src="https://img.shields.io/badge/TensorFlow-0A0A0A?style=for-the-badge&logo=tensorflow&logoColor=%2300FFFF&labelColor=%230A0A0A&scale=1.5" height="50"/>
-<img src="https://img.shields.io/badge/PyTorch-0A0A0A?style=for-the-badge&logo=pytorch&logoColor=%23FF1493&labelColor=%230A0A0A&scale=1.5" height="50"/>
-<img src="https://img.shields.io/badge/Keras-0A0A0A?style=for-the-badge&logo=keras&logoColor=%2339FF14&labelColor=%230A0A0A&scale=1.5" height="50"/>
-<img src="https://img.shields.io/badge/scikit--learn-0A0A0A?style=for-the-badge&logo=scikitlearn&logoColor=%23FF00FF&labelColor=%230A0A0A&scale=1.5" height="50"/>
-<img src="https://img.shields.io/badge/SpaCy-0A0A0A?style=for-the-badge&logo=spacy&logoColor=%2300FFFF&labelColor=%230A0A0A&scale=1.5" height="50"/>
-<img src="https://img.shields.io/badge/OpenCV-0A0A0A?style=for-the-badge&logo=opencv&logoColor=%23FF1493&labelColor=%230A0A0A&scale=1.5" height="50"/>
-<img src="https://img.shields.io/badge/ROS-0A0A0A?style=for-the-badge&logo=ros&logoColor=%2339FF14&labelColor=%230A0A0A&scale=1.5" height="50"/>
-<img src="https://img.shields.io/badge/LangChain-0A0A0A?style=for-the-badge&logo=langchain&logoColor=%23FF00FF&labelColor=%230A0A0A&scale=1.5" height="50"/>
-<img src="https://img.shields.io/badge/Transformers-0A0A0A?style=for-the-badge&logo=huggingface&logoColor=%2300FFFF&labelColor=%230A0A0A&scale=1.5" height="50"/>
-<img src="https://img.shields.io/badge/LLMs-0A0A0A?style=for-the-badge&logoColor=%23FF1493&labelColor=%230A0A0A&scale=1.5" height="50"/>
-<img src="https://img.shields.io/badge/BiLSTM-0A0A0A?style=for-the-badge&logoColor=%2339FF14&labelColor=%230A0A0A&scale=1.5" height="50"/>
-<img src="https://img.shields.io/badge/CoreML-0A0A0A?style=for-the-badge&logo=apple&logoColor=%23FF00FF&labelColor=%230A0A0A&scale=1.5" height="50"/>
-<img src="https://img.shields.io/badge/AVFoundation-0A0A0A?style=for-the-badge&logo=apple&logoColor=%2300FFFF&labelColor=%230A0A0A&scale=1.5" height="50"/>
-<img src="https://img.shields.io/badge/YOLOv8-0A0A0A?style=for-the-badge&logoColor=%23FF1493&labelColor=%230A0A0A&scale=1.5" height="50"/>
-<img src="https://img.shields.io/badge/NLP-0A0A0A?style=for-the-badge&logoColor=%2339FF14&labelColor=%230A0A0A&scale=1.5" height="50"/>
-<img src="https://img.shields.io/badge/ComputerVision-0A0A0A?style=for-the-badge&logoColor=%23FF00FF&labelColor=%230A0A0A&scale=1.5" height="50"/>
+<p align="center">
+  <img src="https://img.shields.io/badge/TensorFlow-0A0A0A?style=for-the-badge&logo=tensorflow&logoColor=%2300FFFF&labelColor=%230A0A0A&scale=1.5" height="60"/>
+  <img src="https://img.shields.io/badge/PyTorch-0A0A0A?style=for-the-badge&logo=pytorch&logoColor=%23FF1493&labelColor=%230A0A0A&scale=1.5" height="60"/>
+  <img src="https://img.shields.io/badge/Keras-0A0A0A?style=for-the-badge&logo=keras&logoColor=%2339FF14&labelColor=%230A0A0A&scale=1.5" height="60"/>
+  <img src="https://img.shields.io/badge/scikit--learn-0A0A0A?style=for-the-badge&logo=scikitlearn&logoColor=%23FF00FF&labelColor=%230A0A0A&scale=1.5" height="60"/>
+  <img src="https://img.shields.io/badge/SpaCy-0A0A0A?style=for-the-badge&logo=spacy&logoColor=%2300FFFF&labelColor=%230A0A0A&scale=1.5" height="60"/>
+  <img src="https://img.shields.io/badge/OpenCV-0A0A0A?style=for-the-badge&logo=opencv&logoColor=%23FF1493&labelColor=%230A0A0A&scale=1.5" height="60"/>
+  <img src="https://img.shields.io/badge/ROS-0A0A0A?style=for-the-badge&logo=ros&logoColor=%2339FF14&labelColor=%230A0A0A&scale=1.5" height="60"/>
+  <img src="https://img.shields.io/badge/LangChain-0A0A0A?style=for-the-badge&logo=langchain&logoColor=%23FF00FF&labelColor=%230A0A0A&scale=1.5" height="60"/>
+  <img src="https://img.shields.io/badge/Transformers-0A0A0A?style=for-the-badge&logo=huggingface&logoColor=%2300FFFF&labelColor=%230A0A0A&scale=1.5" height="60"/>
+  <img src="https://img.shields.io/badge/LLMs-0A0A0A?style=for-the-badge&logoColor=%23FF1493&labelColor=%230A0A0A&scale=1.5" height="60"/>
+  <img src="https://img.shields.io/badge/BiLSTM-0A0A0A?style=for-the-badge&logoColor=%2339FF14&labelColor=%230A0A0A&scale=1.5" height="60"/>
+  <img src="https://img.shields.io/badge/CoreML-0A0A0A?style=for-the-badge&logo=apple&logoColor=%23FF00FF&labelColor=%230A0A0A&scale=1.5" height="60"/>
+  <img src="https://img.shields.io/badge/AVFoundation-0A0A0A?style=for-the-badge&logo=apple&logoColor=%2300FFFF&labelColor=%230A0A0A&scale=1.5" height="60"/>
+  <img src="https://img.shields.io/badge/YOLOv8-0A0A0A?style=for-the-badge&logoColor=%23FF1493&labelColor=%230A0A0A&scale=1.5" height="60"/>
+  <img src="https://img.shields.io/badge/NLP-0A0A0A?style=for-the-badge&logoColor=%2339FF14&labelColor=%230A0A0A&scale=1.5" height="60"/>
+  <img src="https://img.shields.io/badge/ComputerVision-0A0A0A?style=for-the-badge&logoColor=%23FF00FF&labelColor=%230A0A0A&scale=1.5" height="60"/>
+</p>
+
 
 
 ### Databases & Backend
-<img src="https://img.shields.io/badge/MongoDB-0A0A0A?style=for-the-badge&logo=mongodb&logoColor=%2300FFFF&labelColor=%230A0A0A&scale=1.5" height="50"/>
-<img src="https://img.shields.io/badge/PostgreSQL-0A0A0A?style=for-the-badge&logo=postgresql&logoColor=%23FF1493&labelColor=%230A0A0A&scale=1.5" height="50"/>
-<img src="https://img.shields.io/badge/MySQL-0A0A0A?style=for-the-badge&logo=mysql&logoColor=%2339FF14&labelColor=%230A0A0A&scale=1.5" height="50"/>
-<img src="https://img.shields.io/badge/Neo4j-0A0A0A?style=for-the-badge&logo=neo4j&logoColor=%23FF00FF&labelColor=%230A0A0A&scale=1.5" height="50"/>
-<img src="https://img.shields.io/badge/Weaviate-0A0A0A?style=for-the-badge&logo=weaviate&logoColor=%2300FFFF&labelColor=%230A0A0A&scale=1.5" height="50"/>
-<img src="https://img.shields.io/badge/FastAPI-0A0A0A?style=for-the-badge&logo=fastapi&logoColor=%23FF1493&labelColor=%230A0A0A&scale=1.5" height="50"/>
-<img src="https://img.shields.io/badge/Docker-0A0A0A?style=for-the-badge&logo=docker&logoColor=%2339FF14&labelColor=%230A0A0A&scale=1.5" height="50"/>
+<p align="center">
+  <img src="https://img.shields.io/badge/MongoDB-0A0A0A?style=for-the-badge&logo=mongodb&logoColor=%2300FFFF&labelColor=%230A0A0A&scale=1.5" height="60"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-0A0A0A?style=for-the-badge&logo=postgresql&logoColor=%23FF1493&labelColor=%230A0A0A&scale=1.5" height="60"/>
+  <img src="https://img.shields.io/badge/MySQL-0A0A0A?style=for-the-badge&logo=mysql&logoColor=%2339FF14&labelColor=%230A0A0A&scale=1.5" height="60"/>
+  <img src="https://img.shields.io/badge/Neo4j-0A0A0A?style=for-the-badge&logo=neo4j&logoColor=%23FF00FF&labelColor=%230A0A0A&scale=1.5" height="60"/>
+  <img src="https://img.shields.io/badge/Weaviate-0A0A0A?style=for-the-badge&logo=weaviate&logoColor=%2300FFFF&labelColor=%230A0A0A&scale=1.5" height="60"/>
+  <img src="https://img.shields.io/badge/FastAPI-0A0A0A?style=for-the-badge&logo=fastapi&logoColor=%23FF1493&labelColor=%230A0A0A&scale=1.5" height="60"/>
+  <img src="https://img.shields.io/badge/Docker-0A0A0A?style=for-the-badge&logo=docker&logoColor=%2339FF14&labelColor=%230A0A0A&scale=1.5" height="60"/>
+</p>
+
 
 
 ### Data & Visualization
-<img src="https://img.shields.io/badge/Pandas-0A0A0A?style=for-the-badge&logo=pandas&logoColor=%2300FFFF&labelColor=%230A0A0A&scale=1.5" height="50"/>
-<img src="https://img.shields.io/badge/NumPy-0A0A0A?style=for-the-badge&logo=numpy&logoColor=%23FF1493&labelColor=%230A0A0A&scale=1.5" height="50"/>
-<img src="https://img.shields.io/badge/Matplotlib-0A0A0A?style=for-the-badge&logo=matplotlib&logoColor=%2339FF14&labelColor=%230A0A0A&scale=1.5" height="50"/>
-<img src="https://img.shields.io/badge/Seaborn-0A0A0A?style=for-the-badge&logo=seaborn&logoColor=%23FF00FF&labelColor=%230A0A0A&scale=1.5" height="50"/>
-<img src="https://img.shields.io/badge/PowerBI-0A0A0A?style=for-the-badge&logo=powerbi&logoColor=%2300FFFF&labelColor=%230A0A0A&scale=1.5" height="50"/>
-<img src="https://img.shields.io/badge/Jupyter-0A0A0A?style=for-the-badge&logo=jupyter&logoColor=%23FF1493&labelColor=%230A0A0A&scale=1.5" height="50"/>
+<p align="center">
+  <img src="https://img.shields.io/badge/Pandas-0A0A0A?style=for-the-badge&logo=pandas&logoColor=%2300FFFF&labelColor=%230A0A0A&scale=1.5" height="60"/>
+  <img src="https://img.shields.io/badge/NumPy-0A0A0A?style=for-the-badge&logo=numpy&logoColor=%23FF1493&labelColor=%230A0A0A&scale=1.5" height="60"/>
+  <img src="https://img.shields.io/badge/Matplotlib-0A0A0A?style=for-the-badge&logo=matplotlib&logoColor=%2339FF14&labelColor=%230A0A0A&scale=1.5" height="60"/>
+  <img src="https://img.shields.io/badge/Seaborn-0A0A0A?style=for-the-badge&logo=seaborn&logoColor=%23FF00FF&labelColor=%230A0A0A&scale=1.5" height="60"/>
+  <img src="https://img.shields.io/badge/PowerBI-0A0A0A?style=for-the-badge&logo=powerbi&logoColor=%2300FFFF&labelColor=%230A0A0A&scale=1.5" height="60"/>
+  <img src="https://img.shields.io/badge/Jupyter-0A0A0A?style=for-the-badge&logo=jupyter&logoColor=%23FF1493&labelColor=%230A0A0A&scale=1.5" height="60"/>
+</p>
 
 
 ### MLOps & Tools
-<img src="https://img.shields.io/badge/Git-0A0A0A?style=for-the-badge&logo=git&logoColor=%2300FFFF&labelColor=%230A0A0A&scale=1.5" height="50"/>
-<img src="https://img.shields.io/badge/MLflow-0A0A0A?style=for-the-badge&logo=mlflow&logoColor=%23FF1493&labelColor=%230A0A0A&scale=1.5" height="50"/>
-<img src="https://img.shields.io/badge/Streamlit-0A0A0A?style=for-the-badge&logo=streamlit&logoColor=%2339FF14&labelColor=%230A0A0A&scale=1.5" height="50"/>
-<img src="https://img.shields.io/badge/Linux-0A0A0A?style=for-the-badge&logo=linux&logoColor=%23FF00FF&labelColor=%230A0A0A&scale=1.5" height="50"/>
-<img src="https://img.shields.io/badge/VS%20Code-0A0A0A?style=for-the-badge&logo=visualstudiocode&logoColor=%2300FFFF&labelColor=%230A0A0A&scale=1.5" height="50"/>
+<p align="center">
+  <img src="https://img.shields.io/badge/Git-0A0A0A?style=for-the-badge&logo=git&logoColor=%2300FFFF&labelColor=%230A0A0A&scale=1.5" height="60"/>
+  <img src="https://img.shields.io/badge/MLflow-0A0A0A?style=for-the-badge&logo=mlflow&logoColor=%23FF1493&labelColor=%230A0A0A&scale=1.5" height="60"/>
+  <img src="https://img.shields.io/badge/Streamlit-0A0A0A?style=for-the-badge&logo=streamlit&logoColor=%2339FF14&labelColor=%230A0A0A&scale=1.5" height="60"/>
+  <img src="https://img.shields.io/badge/Linux-0A0A0A?style=for-the-badge&logo=linux&logoColor=%23FF00FF&labelColor=%230A0A0A&scale=1.5" height="60"/>
+  <img src="https://img.shields.io/badge/VS%20Code-0A0A0A?style=for-the-badge&logo=visualstudiocode&logoColor=%2300FFFF&labelColor=%230A0A0A&scale=1.5" height="60"/>
+</p>
+
 
 
 
