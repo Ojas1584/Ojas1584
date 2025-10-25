@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C6FF,100:0066FF&height=160&section=header&text=Ojas%20Vinay%20Shenwai&fontSize=40&fontColor=000000&animation=wave&pattern=mesh&motion=wave" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C6FF,100:0066FF&height=160&section=header&text=Ojas%20Vinay%20Shenwai&fontSize=40&fontColor=000000&animation=wave&pattern=mesh&motion=fast" />
 </p>
+
 
 <h1 align="center">
   <a href="https://github.com/Ojas1584" target="_blank">
