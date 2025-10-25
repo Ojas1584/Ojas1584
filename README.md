@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00C6FF,100:0A0A0A&height=100&text=Ojas%20Vinay%20Shenwai&fontAlign=50&fontAlignY=50&fontSize=36&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0A0A,100:121212&height=120&section=header&text=Ojas%20Vinay%20Shenwai&fontSize=40&fontColor=00C6FF&animation=glitch&desc=AI+Engineer+|+Data+Scientist+|+GenAI+Practitioner&descColor=00FFFF&descAlign=center&pattern=mesh&motion=wave" />
 </p>
+
 
 <h1 align="center">
   <a href="https://github.com/Ojas1584" target="_blank">
@@ -69,7 +70,6 @@ Experienced in **LLMs, RAG, Computer Vision, NLP, and Time-Series Analytics**, f
   <img src="https://img.shields.io/badge/FastAPI-121212?style=for-the-badge&logo=fastapi&logoColor=00FA9A" height="70"/>
   <img src="https://img.shields.io/badge/Streamlit-121212?style=for-the-badge&logo=streamlit&logoColor=FF1493" height="70"/>
   <img src="https://img.shields.io/badge/GitHub%20Actions-121212?style=for-the-badge&logo=githubactions&logoColor=00FFFF" height="70"/>
-  <img src="https://img.shields.io/badge/Weights%20&%20Biases-121212?style=for-the-badge&logo=weightsandbiases&logoColor=FFD700" height="70"/>
   <img src="https://img.shields.io/badge/Linux-121212?style=for-the-badge&logo=linux&logoColor=FFFFFF" height="70"/>
   <img src="https://img.shields.io/badge/Bash%20Scripting-121212?style=for-the-badge&logo=gnu-bash&logoColor=00FF7F" height="70"/>
   <img src="https://img.shields.io/badge/Vercel-121212?style=for-the-badge&logo=vercel&logoColor=FFFFFF" height="70"/>
