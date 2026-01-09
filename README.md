@@ -160,5 +160,5 @@ Experienced in **LLMs, RAG, Computer Vision, NLP, and Time-Series Analytics**, f
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Ojas1584&label=Profile%20Views&color=00C6FF&style=flat" alt="Profile views" />
   <br>
-  <i>Last Updated: October 2025</i>
+  <i>Last Updated: December 2025</i>
 </p>
