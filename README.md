@@ -26,11 +26,8 @@ Experienced in **LLMs, RAG, Computer Vision, NLP, and Time-Series Analytics**, f
 
 ##  Current Work
 
-**Swift Multi-Modal Assistive Translator**  
-- macOS Vision + ML Model + Haptic Glove translating speech-to-Braille for deafblind accessibility.  
-- Real-time transcription and haptic feedback using a 6-motor glove system.  
-- Decoupled Vision and Haptic modules for independent debugging and deployment.  
-**Stack:** Swift · CoreML · BiLSTM · AVFoundation · Python
+**R&D Intern @Indrones**  
+https://indrones.com/
 
 ---
 
@@ -160,5 +157,5 @@ Experienced in **LLMs, RAG, Computer Vision, NLP, and Time-Series Analytics**, f
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Ojas1584&label=Profile%20Views&color=00C6FF&style=flat" alt="Profile views" />
   <br>
-  <i>Last Updated: December 2025</i>
+  <i>Last Updated: Feb 2026</i>
 </p>
