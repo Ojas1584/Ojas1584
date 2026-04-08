@@ -5,7 +5,7 @@
 <div style="height: 40px;"></div>
 
 <h3 align="center" style="color:#00FFFF; margin-top:0;">
-  Aspiring AI/ML Engineer | Data Scientist | GenAI Practitioner
+  Aspiring AI/ML Engineer 
 </h3>
 
 
