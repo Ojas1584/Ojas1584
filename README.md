@@ -16,7 +16,7 @@
 
  **Location:** Navi Mumbai, India  
  **Education:** Final Year B.Tech in *Electronics & Telecommunication (Minor in AI)* – RAIT  
- **CGPA:** 8.79 / 10  
+ **CGPA:** 8.92 / 10  
  **Email:** [ojasshen1584@gmail.com](mailto:ojasshen1584@gmail.com)  
 
 Passionate about building intelligent systems that merge **AI, Data, and Automation**.  
